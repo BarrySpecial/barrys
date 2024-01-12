@@ -1,7 +1,7 @@
 /*Fonts*/
 @font-face {
     font-family: Nunito;
-    src: url("Assets/Fonts/Nunito/Nunito-VariableFont_wght.ttf")
+    src: url("assets/Fonts/Nunito/Nunito-VariableFont_wght.ttf")
 }
 
 /*General look and feel*/
@@ -28,7 +28,7 @@ body {
 
 .img1 {
     min-height: 100vh;
-    background-image: url("Assets/Images/Minolta_2020.jpg");
+    background-image: url("assets/Images/Minolta_2020.jpg");
     grid-row-start: 1;
     grid-row-end: 20;
 }
